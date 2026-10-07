@@ -1,9 +1,9 @@
-2026-10-07 18:06:57,069 | INFO | Abriendo Chrome
-2026-10-07 18:06:58,870 | INFO | tests/test_saucedemo.py::test_login_exitoso | etapa=call | resultado=passed
-2026-10-07 18:06:58,871 | INFO | Cerrando Chrome
-2026-10-07 18:07:01,396 | INFO | Abriendo Chrome
-2026-10-07 18:07:03,621 | INFO | tests/test_saucedemo.py::test_catalogo_productos | etapa=call | resultado=passed
-2026-10-07 18:07:03,621 | INFO | Cerrando Chrome
-2026-10-07 18:07:05,777 | INFO | Abriendo Chrome
-2026-10-07 18:07:07,842 | INFO | tests/test_saucedemo.py::test_agregar_producto_al_carrito | etapa=call | resultado=passed
-2026-10-07 18:07:07,843 | INFO | Cerrando Chrome
+2026-10-07 18:08:19,081 | INFO | Abriendo Chrome
+2026-10-07 18:08:21,026 | INFO | tests/test_saucedemo.py::test_login_exitoso | etapa=call | resultado=passed
+2026-10-07 18:08:21,027 | INFO | Cerrando Chrome
+2026-10-07 18:08:23,255 | INFO | Abriendo Chrome
+2026-10-07 18:08:25,279 | INFO | tests/test_saucedemo.py::test_catalogo_productos | etapa=call | resultado=passed
+2026-10-07 18:08:25,279 | INFO | Cerrando Chrome
+2026-10-07 18:08:27,434 | INFO | Abriendo Chrome
+2026-10-07 18:08:29,545 | INFO | tests/test_saucedemo.py::test_agregar_producto_al_carrito | etapa=call | resultado=passed
+2026-10-07 18:08:29,546 | INFO | Cerrando Chrome
